@@ -1,1 +1,1 @@
-# AnimatedSplashScreeninCompose
+# AnimatedSplashScreenInCompose
