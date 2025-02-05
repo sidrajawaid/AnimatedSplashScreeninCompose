@@ -2,4 +2,12 @@
 <resources>
 
     <style name="Theme.AnimatedSplashScreenTutorial" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.app.starting" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">   @color/white </item>
+        <item name="postSplashScreenTheme"> @style/Theme.AnimatedSplashScreenTutorial</item>
+        <item name="windowSplashScreenAnimatedIcon"> @drawable/animator_logo</item>
+
+    </style>
 </resources>
